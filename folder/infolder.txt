@@ -1,0 +1,4 @@
+This is a text document in a folder
+second line
+more lines
+and so on
